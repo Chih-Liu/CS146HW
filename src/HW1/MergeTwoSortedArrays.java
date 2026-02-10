@@ -1,4 +1,4 @@
-package HW2;
+package HW1;
 
 public class MergeTwoSortedArrays {
     public static int[] merge(int[] A, int[] B) {
